@@ -1,0 +1,3 @@
+#!/bin/bash
+
+whats up
